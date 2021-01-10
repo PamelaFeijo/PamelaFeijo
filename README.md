@@ -9,7 +9,7 @@ I am a Front-End Developer Jr.
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamelafeijo/)
-[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
+[<img src="https://img.shields.io/github/followers/PamelaFeijo?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PamelaFeijo) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pamelaffeijo@gmail.com)
 
 
