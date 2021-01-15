@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there, I'm {Pamela}! 👋 
-I study Web Development.
+I am a Web Development student.
 
 </div>
 
