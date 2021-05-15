@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there, I'm {Pamela}! 👋 
-Web Development student.
+Junior Full-Stack Developer
 
 </div>
 
