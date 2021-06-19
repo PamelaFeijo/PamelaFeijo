@@ -15,7 +15,7 @@ Junior Full-Stack Web Developer
   
 </div>
 
-const me = {
+``const me = {
     greetings: "Hello there 👋",
 
     whoAmI: "I am Full Stack Developer with strong passion in coding.",
@@ -47,7 +47,7 @@ const me = {
             date: "March 2021 - July 2021"
         },
         
-        "Centro Universitário Geraldo Di Biase under the Government of the Russian Federation": {
+        "Centro Universitário Geraldo Di Biase": {
             degree: "Bachelor of Arts, Portuguese, English and Linguistics",
             date: "January 2009 - December 2012"
         },
@@ -57,7 +57,7 @@ const me = {
         email: "pamelaffeijo@gmail.com",
         linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
     },
-}
+}``
 
 
 ---
