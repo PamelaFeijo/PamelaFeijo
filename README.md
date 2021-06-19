@@ -16,47 +16,47 @@ Junior Full-Stack Web Developer
 </div>
 
     const me = {
-    greetings: "Hello there 👋",
-    
-    whoAmI: "I am Full Stack Developer with strong passion in coding.",
+      greetings: "Hello there 👋",
 
-    aboutMe: {
-        name: "Pamela",
-        surname: "Feijo",       
-        placeOfBirth: "Brazil",
-        
-        currentLocation: "Utrecht, Netherlands",
-    },
+      whoAmI: "I am Full Stack Developer with strong passion in coding.",
 
-    stack: [
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "React",    
-        "Node.js",
-        "Git",
-        "OOP",
-        "webpack",     
-        "Scrum",
-        "Agile",
-    ],  
+      aboutMe: {
+          name: "Pamela",
+          surname: "Feijo",       
+          placeOfBirth: "Brazil",
 
-    education: {
-        "Wild Code School": {
-            certificate: "Full Stack JavaScript Developer",
-            date: "March 2021 - July 2021"
-        },
-        
-        "Centro Universitário Geraldo Di Biase": {
-            degree: "Bachelor of Arts, Portuguese, English and Linguistics",
-            date: "January 2009 - December 2012"
-        },
-    },
+          currentLocation: "Utrecht, Netherlands",
+      },
 
-    contactMe: {
-        email: "pamelaffeijo@gmail.com",
-        linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
-    },
+      stack: [
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "React",    
+          "Node.js",
+          "Git",
+          "OOP",
+          "webpack",     
+          "Scrum",
+          "Agile",
+      ],  
+
+      education: {
+          "Wild Code School": {
+              certificate: "Full Stack JavaScript Developer",
+              date: "March 2021 - July 2021"
+          },
+
+          "Centro Universitário Geraldo Di Biase": {
+              degree: "Bachelor of Arts, Portuguese, English and Linguistics",
+              date: "January 2009 - December 2012"
+          },
+      },
+
+      contactMe: {
+          email: "pamelaffeijo@gmail.com",
+          linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
+      },
 }
 
 
