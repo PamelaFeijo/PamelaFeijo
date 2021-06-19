@@ -15,49 +15,51 @@ Junior Full-Stack Web Developer
   
 </div>
 
+### Here is more information about me:
+
     const me = {
-      greetings: "Hello there 👋",
+        greetings: "Hello there 👋",
 
-      whoAmI: "I am Full Stack Developer with strong passion in coding.",
+        whoAmI: "I am Full Stack Developer with strong passion in coding.",
 
-      aboutMe: {
-          name: "Pamela",
-          surname: "Feijo",       
-          placeOfBirth: "Brazil",
+        aboutMe: {
+            name: "Pamela",
+            surname: "Feijo",       
+            placeOfBirth: "Brazil",
 
-          currentLocation: "Utrecht, Netherlands",
-      },
+            currentLocation: "Utrecht, Netherlands",
+        },
 
-      stack: [
-          "JavaScript",
-          "HTML5",
-          "CSS3",
-          "React",    
-          "Node.js",
-          "Git",
-          "OOP",
-          "webpack",     
-          "Scrum",
-          "Agile",
-      ],  
+        stack: [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "React",    
+            "Node.js",
+            "Git",
+            "OOP",
+            "webpack",     
+            "Scrum",
+            "Agile",
+        ],  
 
-      education: {
-          "Wild Code School": {
-              certificate: "Full Stack JavaScript Developer",
-              date: "March 2021 - July 2021"
-          },
+        education: {
+            "Wild Code School": {
+                certificate: "Full Stack JavaScript Developer",
+                date: "March 2021 - July 2021"
+            },
 
-          "Centro Universitário Geraldo Di Biase": {
-              degree: "Bachelor of Arts, Portuguese, English and Linguistics",
-              date: "January 2009 - December 2012"
-          },
-      },
+            "Centro Universitário Geraldo Di Biase": {
+                degree: "Bachelor of Arts, Portuguese, English and Linguistics",
+                date: "January 2009 - December 2012"
+            },
+        },
 
-      contactMe: {
-          email: "pamelaffeijo@gmail.com",
-          linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
-      },
-}
+        contactMe: {
+            email: "pamelaffeijo@gmail.com",
+            linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
+        },
+    }
 
 
 ---
