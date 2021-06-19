@@ -15,9 +15,9 @@ Junior Full-Stack Web Developer
   
 </div>
 
-``const me = {
+    const me = {
     greetings: "Hello there 👋",
-
+    
     whoAmI: "I am Full Stack Developer with strong passion in coding.",
 
     aboutMe: {
@@ -57,7 +57,7 @@ Junior Full-Stack Web Developer
         email: "pamelaffeijo@gmail.com",
         linkedIn: "https://www.linkedin.com/in/pamelafeijo/"
     },
-}``
+}
 
 
 ---
