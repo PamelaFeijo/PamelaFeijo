@@ -17,7 +17,7 @@
 
         aboutMe: {
             name: "Pamela",
-            surname: "Feijo",       
+            surname: "Feijó",       
             placeOfBirth: "Brazil",
 
             currentLocation: "Utrecht, Netherlands",
@@ -29,6 +29,7 @@
             "CSS3",
             "React",    
             "Node.js",
+            "Express",
             "Git",
             "OOP",
             "webpack",     
