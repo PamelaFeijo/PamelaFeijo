@@ -1,13 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Pamela Feijo!
+# Hi there, I'm Pamela Feijó!
 Junior Full-Stack Web Developer
 
-</div>
-
----
-
-<div align="center">
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamelafeijo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pamelaffeijo@gmail.com)
