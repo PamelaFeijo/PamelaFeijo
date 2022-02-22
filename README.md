@@ -27,6 +27,7 @@
             "JavaScript",
             "HTML5",
             "CSS3",
+            "Vue.js",
             "React",    
             "Node.js",
             "Express",
