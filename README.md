@@ -71,8 +71,10 @@
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/mysql%20-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> </div>
+   <img src="https://img.shields.io/badge/mysql%20-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+   
 
 
 ---
