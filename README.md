@@ -81,5 +81,3 @@
 ---
 ## <div align="center"> 💻 Check Out My Repos ⬇️ </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PamelaFeijo)](https://github.com/ryo-ma/github-profile-trophy)
-
